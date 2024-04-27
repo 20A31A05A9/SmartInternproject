@@ -1,7 +1,7 @@
 # SmartInternproject
 Topic: Plugging into the Future: An Exploration of Electricity Consumption Patterns
 
-By Gurala Sai Chaitanya, Roll No: 20a31a05A9, CSE, Pragati Engineering College.
+By Gurala Sai Chaitanya, Roll No: 20a31a05a9, CSE, Pragati Engineering College.
 
 Document: Contains project report Project files: Contains dataset used and workbook Video Demo: Contains video demo of project Web Files: Contains website files of project
 
